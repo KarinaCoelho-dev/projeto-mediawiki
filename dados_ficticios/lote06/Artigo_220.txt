@@ -1,0 +1,12 @@
+'''Artigo ficticio 220 - Engenharia de Software'''
+
+== Apresentacao ==
+Este artigo de teste numero 220 foi criado exclusivamente para a atividade academica de Banco de Dados. Todos os nomes, assuntos organizados e registros sao ficticios.
+
+== Conteudo ==
+A categoria abordada e Engenharia de Software. O objetivo e demonstrar a organizacao das paginas de uma wiki, o armazenamento de revisoes e a consulta das ligacoes entre tabelas.
+
+== Relacionamentos ==
+Consulte tambem [[Projeto/Artigo_221]] para estudar ligacoes internas.
+
+[[Category:Engenharia de Software]]

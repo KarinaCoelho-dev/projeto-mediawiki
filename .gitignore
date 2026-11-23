@@ -1,0 +1,6 @@
+LocalSettings.php
+compose.yaml
+.env
+.env.*
+!.env.example
+evidencias/

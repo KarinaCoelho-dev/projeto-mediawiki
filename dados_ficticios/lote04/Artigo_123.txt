@@ -1,0 +1,12 @@
+'''Artigo ficticio 123 - Redes de Computadores'''
+
+== Apresentacao ==
+Este artigo de teste numero 123 foi criado exclusivamente para a atividade academica de Banco de Dados. Todos os nomes, assuntos organizados e registros sao ficticios.
+
+== Conteudo ==
+A categoria abordada e Redes de Computadores. O objetivo e demonstrar a organizacao das paginas de uma wiki, o armazenamento de revisoes e a consulta das ligacoes entre tabelas.
+
+== Relacionamentos ==
+Consulte tambem [[Projeto/Artigo_124]] para estudar ligacoes internas.
+
+[[Category:Redes de Computadores]]

@@ -1,0 +1,26 @@
+
+services:
+  database:
+    image: mysql:8.0
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: mediawiki
+      MYSQL_USER: wikiuser
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+    volumes:
+      - dados_mysql:/var/lib/mysql
+
+  mediawiki:
+    image: mediawiki:1.43
+    ports:
+      - "8080:80"
+    depends_on:
+      - database
+    volumes:
+      - imagens_wiki:/var/www/html/images
+      # Apos a instalacao, configurar LocalSettings.php
+      # e adicionar seu volume de montagem.
+
+volumes:
+  dados_mysql:
+  imagens_wiki:

@@ -1,0 +1,12 @@
+'''Artigo ficticio 225 - Algoritmos'''
+
+== Apresentacao ==
+Este artigo de teste numero 225 foi criado exclusivamente para a atividade academica de Banco de Dados. Todos os nomes, assuntos organizados e registros sao ficticios.
+
+== Conteudo ==
+A categoria abordada e Algoritmos. O objetivo e demonstrar a organizacao das paginas de uma wiki, o armazenamento de revisoes e a consulta das ligacoes entre tabelas.
+
+== Relacionamentos ==
+Consulte tambem [[Projeto/Artigo_226]] para estudar ligacoes internas.
+
+[[Category:Algoritmos]]

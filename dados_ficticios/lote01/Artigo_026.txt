@@ -1,0 +1,12 @@
+'''Artigo ficticio 026 - Banco de Dados'''
+
+== Apresentacao ==
+Este artigo de teste numero 026 foi criado exclusivamente para a atividade academica de Banco de Dados. Todos os nomes, assuntos organizados e registros sao ficticios.
+
+== Conteudo ==
+A categoria abordada e Banco de Dados. O objetivo e demonstrar a organizacao das paginas de uma wiki, o armazenamento de revisoes e a consulta das ligacoes entre tabelas.
+
+== Relacionamentos ==
+Consulte tambem [[Projeto/Artigo_027]] para estudar ligacoes internas.
+
+[[Category:Banco de Dados]]

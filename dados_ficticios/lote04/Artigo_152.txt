@@ -1,0 +1,12 @@
+'''Artigo ficticio 152 - Inteligencia Artificial'''
+
+== Apresentacao ==
+Este artigo de teste numero 152 foi criado exclusivamente para a atividade academica de Banco de Dados. Todos os nomes, assuntos organizados e registros sao ficticios.
+
+== Conteudo ==
+A categoria abordada e Inteligencia Artificial. O objetivo e demonstrar a organizacao das paginas de uma wiki, o armazenamento de revisoes e a consulta das ligacoes entre tabelas.
+
+== Relacionamentos ==
+Consulte tambem [[Projeto/Artigo_153]] para estudar ligacoes internas.
+
+[[Category:Inteligencia Artificial]]
